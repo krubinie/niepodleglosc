@@ -1,0 +1,29 @@
+body {
+	background-image: linear-gradient(white,red);
+
+	font-family: Verdena, Geneva, sans-serif;
+}
+
+div#content{
+	width:960px;
+	background-color: #FFF;
+	margin-left: auto;
+	margin-right:auto;
+	padding: 15px;
+	column-count: 2;
+	column-gap: 10em;
+	column-rule: 1px solid red;
+	position: relative;
+}
+
+
+p{
+	font-size: 1.1em;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 10px; 
+}
